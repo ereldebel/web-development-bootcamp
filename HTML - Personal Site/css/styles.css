@@ -24,3 +24,8 @@ li {
 table {
   color: #3D3C42;
 }
+
+.profile {
+  width: 250px;  
+  border-radius: 100%;
+}
